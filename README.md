@@ -1,5 +1,5 @@
 # .net-rest-api
-builded a dotnet 5 web api project from scratch
+
 Introduction to .NET
 16/11/2020
 14 minutes to read
